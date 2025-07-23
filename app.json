@@ -1,12 +1,12 @@
 {
-    "name": "𝚅𝙰𝙼𝙿𝙸𝚁𝙴 𝙼𝚄𝚂𝙸𝙲",
+    "name": "SHUKLA 𝙼𝚄𝚂𝙸𝙲",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://files.catbox.moe/bl67df.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "VAMPIRE",
+    "SHUKLA",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
