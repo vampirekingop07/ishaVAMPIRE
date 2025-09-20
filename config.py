@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/vampirebotsntwrk/NITUMUSICVAMPIRE",
+    "https://github.com/vampirekingop07/ishaVAMPIRE",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -68,7 +68,7 @@ GIT_TOKEN = getenv(
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/llVAMPIRE_UPDATEll")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://youtube.com/@mini_ajmer_vloger")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/llVAMPIRE_UPDATEll")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
