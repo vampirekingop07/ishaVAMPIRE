@@ -6,7 +6,7 @@ from SHUKLAMUSIC import app
 
 #--------------------------
 
-MUST_JOIN = "CNH_LINK"
+MUST_JOIN = "llVAMPIRE_UPDATEll"
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(app: Client, msg: Message):
@@ -27,7 +27,7 @@ async def must_join_channel(app: Client, msg: Message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("๏Jᴏɪɴ๏", url="https://t.me/CNH_LINK"),
+                                InlineKeyboardButton("๏Jᴏɪɴ๏", url="https://t.me/llVAMPIRE_UPDATEll"),
                             ]
                         ]
                     )
